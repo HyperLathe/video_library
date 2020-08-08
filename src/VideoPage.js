@@ -13,6 +13,7 @@ const Videosection = styled.section `
  display: grid;
  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
  grid-gap: 2rem;
+ margin-top: 40px;
 `;
 
 const YearHeader = styled.div `
