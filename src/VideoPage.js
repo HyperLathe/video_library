@@ -52,10 +52,12 @@ function VideoPage(props) {
 
   return (
     <PageContent>
+      <YearHeader>
       <h2>Videos from {props.id}</h2>
       <p>Theme: {props.theme}</p>
       <p>Project: {props.project}</p>
       <p>{props.summary}</p>
+      </YearHeader>
 
       <Videosection>
         {vidCollection}

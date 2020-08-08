@@ -6,7 +6,6 @@ import PageContent from "./content.json";
 
 import Home from "./Home";
 import VideoPage from "./VideoPage";
-import NavBurger from "./components/NavBurger";
 
 const Main = styled.div `
   margin: 0px auto;
@@ -14,7 +13,6 @@ const Main = styled.div `
 `;
 
 const Header = styled.header `
-  width: 100%;
   background: #eeeeee;
   padding: 10px 20px;
 `;
