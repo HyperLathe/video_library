@@ -13,7 +13,7 @@ const Main = styled.div `
 `;
 
 const Header = styled.header `
-  background: #eeeeee;
+  background: #f3f3f3;
   padding: 10px 20px;
 `;
 
@@ -21,19 +21,23 @@ const Nav = styled.nav`
 	list-style-type: none;
 	margin: 0px;
 	padding: 0px;
-	width: 200px;
+	width: 100%;
 	display: flex;
+	flex-wrap: wrap;
 	 a {
 			font-family: helvetica, arial, sans-serif;
 			text-transform: uppercase;
-			font-size: 0.8rem;
+			font-size: 1rem;
 			text-decoration: none;
-			color: #b4b4b4;
+			color: #a07a7a;
       margin-bottom: 7px;
-      margin-right: 15px;
+			margin-right: 1rem;
+			transition: all 0.2s ease;
+			padding: 10px;
 				&:hover,
 				&.active {
 					color: #000;
+					transform: scale(1.3);
 				}
 	 }
 `;

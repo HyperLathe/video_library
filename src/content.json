@@ -1,5 +1,18 @@
 [
   {
+    "id": "2013",
+    "nav": "2013",
+    "theme": "Cargo Cult",
+    "project": "The Guardian of Dawn",
+    "location": "7 o'clock & 200'",
+    "summary": "Aka The Ambitious One™",
+    "imalogo": "",
+    "manphoto": "",
+    "templephoto": "",
+    "vidcount": 3,
+    "vids": [ "dkKVzzyMhKU", "FrdzwGz93c8", "FR-g1k-tlSE" ]
+  },
+  {
     "id": "2014",
     "nav": "2014",
     "theme": "Caravansary",
@@ -9,13 +22,8 @@
     "imalogo": "",
     "manphoto": "",
     "templephoto": "",
-    "vidcount": 1,
-    "vids": [
-      {
-        "title": "Coming soon",
-        "url": ""
-      }
-    ]
+    "vidcount": 15,
+    "vids": ["sDgPB2BpHTU", "xdlehnlqzEQ", "fM3qfM23yjc", "T7xtIA9jjPY", "N5m8kawyG7Q", "YHIexUch230","kj3TX3d3mwg", "qyRe_-ik5Yw",  "jajvuwi1o6k", "Yyc75u0KbUs", "3KMJQjIEjSc", "ABn1Me86V5Q","Fq59yJK6AvU", "GJgphLp9mpg", "mz288n9Bswo"]
   },
   {
     "id": "2015",
@@ -63,7 +71,7 @@
     "imalogo": "",
     "manphoto": "",
     "templephoto": "",
-    "vidcount": 20,
+    "vidcount": 1,
     "vids": [
       {
         "title": "Contacts",
