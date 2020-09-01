@@ -36,11 +36,6 @@ const Videocontainer = styled.div `
 `;
 
 
-const Video = styled.video `
-  width: 300px;
-`;
-
-
 
 function VideoPage(props) {
 
