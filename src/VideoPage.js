@@ -44,7 +44,7 @@ function VideoPage(props) {
 
       <Videocontainer>
            <iframe width='100%' height='100%'
-           src={'https://www.youtube-nocookie.com/embed/' + (props.vids[i])}
+           src={'https://www.youtube-nocookie.com/embed/' + (props.vids[i]) + '?rel=0&amp;vq=hd1080'}
            frameborder='0'
            allow='autoplay; encrypted-media'
            title={(props.vids[i].title)} allowfullscreen="true" >
