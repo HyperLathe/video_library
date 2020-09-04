@@ -74,13 +74,8 @@
     "imalogo": "",
     "manphoto": "",
     "templephoto": "",
-    "vidcount": 1,
-    "vids": [
-      {
-        "title": "Coming soon",
-        "url": ""
-      }
-    ]
+    "vidcount": 5,
+    "vids": [ "cg2NRnXblgA", "-dFGTEagYvM", "dmw77vKFaIg", "oE-7znLF_eI", "zrEcVA1mlyY" ]
   },
   {
     "id": "2019",
@@ -92,12 +87,7 @@
     "imalogo": "",
     "manphoto": "",
     "templephoto": "",
-    "vidcount": 1,
-    "vids": [
-      {
-        "title": "Coming soon",
-        "url": ""
-      }
-    ]
+    "vidcount": 12,
+    "vids": [ "66Z9VRdxOlQ", "jj9JoQ3QZaY", "GMMkUBhFUv4", "8UDwIwejrTc", "OIyBRMtPXHA", "ywtrTLpYS7A", "gbdO61Ayb4c", "4htb41jEH_w", "sY1NTfMdyqg", "B5oJOwTBVEI", "iYEIfl3B4BA", "Vc2XxSzH-x8" ]
   }
 ]
