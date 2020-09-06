@@ -47,7 +47,7 @@ function VideoPage(props) {
            src={'https://www.youtube-nocookie.com/embed/' + (props.vids[i]) + '?rel=0&amp;vq=hd1080'}
            frameborder='0'
            allow='autoplay; encrypted-media'
-           title={(props.vids[i].title)} allowfullscreen="true" >
+           title="Iron Monkey Arts" allowfullscreen="true" >
            </iframe>
       </Videocontainer>
     
